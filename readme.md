@@ -7,7 +7,7 @@ Basic example of edition and download of image with canvas. For this example, i 
 * [Fabric.js](https://www.npmjs.com/package/fabric)
 * [Webpack DevServer](https://webpack.js.org/configuration/dev-server/)
 
-### Get Start ###
+### Get started ###
 
 **Using Webpack DevServer**
 
