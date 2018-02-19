@@ -1,4 +1,4 @@
-# Edition and download of image #
+# Image edition with canvas #
 
 Basic example of edition and download of image with canvas. For this example, i use the lib Fabric.js and actions for interact with image in canvas context. You can add, resize or remove elements.
 
